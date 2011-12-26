@@ -1,123 +1,112 @@
 <Configuration>
   <RecentFiles>
     <RecentFiles>
-      <File id="A8E1B590-A8A2-414C-8646-4F4000D2A369/f:Program.cs" caret="0" fromTop="0" />
-      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:Interface/f:LogMsmqMessageTests.cs" caret="407" fromTop="17" />
-      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:Interface/f:LogMessageTests.cs" caret="0" fromTop="0" />
-      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:LogWriter/f:ReceiverServiceTests.cs" caret="537" fromTop="22" />
-      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/f:TestCategories.cs" caret="76" fromTop="4" />
-      <File id="EE699E95-956C-4D33-BE53-D3F4B723E849/f:Web.config" caret="533" fromTop="14" />
-      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/f:App.config" caret="141" fromTop="5" />
-      <File id="2FD2B160-D0BB-4362-9E6B-8FFE97D487B6/f:App.config" caret="126" fromTop="3" />
-      <File id="2FD2B160-D0BB-4362-9E6B-8FFE97D487B6/f:Program.cs" caret="398" fromTop="22" />
-      <File id="EE699E95-956C-4D33-BE53-D3F4B723E849/d:Controllers/f:HomeController.cs" caret="234" fromTop="11" />
-      <File id="43BC85ED-2A68-4426-BB3A-A894E2D8AD19/f:Program.cs" caret="197" fromTop="12" />
-      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:Interface/f:LoggerTests.cs" caret="13" fromTop="0" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/f:ILogger.cs" caret="0" fromTop="0" />
-      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:Interface/d:MessageSender/f:LogMsmqMessageSenderTests.cs" caret="155" fromTop="6" />
-      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:IReceiverService.cs" caret="0" fromTop="0" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/d:MessageSender/f:LogMsmqMessageSender.cs" caret="162" fromTop="3" />
-      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:ReceiverService.cs" caret="1408" fromTop="16" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/f:LogAction.cs" caret="0" fromTop="0" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/f:LogMessage.cs" caret="491" fromTop="19" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/d:Properties/f:AssemblyInfo.cs" caret="559" fromTop="12" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/f:LogMsmqMessage.cs" caret="164" fromTop="7" />
-      <File id="A8E1B590-A8A2-414C-8646-4F4000D2A369/f:App.config" caret="1227" fromTop="16" />
-      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:App.config" caret="1500" fromTop="15" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/d:MessageSender/f:ILogMessageSender.cs" caret="38" fromTop="2" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/f:Logger.cs" caret="0" fromTop="0" />
+      <File id="EE699E95-956C-4D33-BE53-D3F4B723E849/f:Web.Release.config" caret="799" fromTop="17" />
+      <File id="EE699E95-956C-4D33-BE53-D3F4B723E849/f:Web.config" caret="0" fromTop="0" />
+      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:Interface/d:MessageSender/f:LogMsmqMessageSenderTests.cs" caret="51" fromTop="2" />
+      <File id="EE699E95-956C-4D33-BE53-D3F4B723E849/d:Controllers/f:HomeController.cs" caret="90" fromTop="3" />
+      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/f:App.config" caret="326" fromTop="6" />
+      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:Core/f:LazyConfigSettingsTests.cs" caret="244" fromTop="11" />
+      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:Core/f:LogMsmqMessageTests.cs" caret="0" fromTop="0" />
+      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:Core/f:LogMessageTests.cs" caret="0" fromTop="0" />
+      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:Interface/f:LoggerTests.cs" caret="2053" fromTop="43" />
+      <File id="2FD2B160-D0BB-4362-9E6B-8FFE97D487B6/f:App.config" caret="349" fromTop="7" />
+      <File id="43BC85ED-2A68-4426-BB3A-A894E2D8AD19/f:App.config" caret="344" fromTop="6" />
+      <File id="43BC85ED-2A68-4426-BB3A-A894E2D8AD19/f:Program.cs" caret="139" fromTop="10" />
+      <File id="FA05E532-422D-494D-83DF-7F3B970FEE62/f:ILazyConfigSettings.cs" caret="0" fromTop="0" />
+      <File id="FA05E532-422D-494D-83DF-7F3B970FEE62/f:LazyConfigSettings.cs" caret="0" fromTop="0" />
+      <File id="2FD2B160-D0BB-4362-9E6B-8FFE97D487B6/f:Program.cs" caret="568" fromTop="27" />
+      <File id="FA05E532-422D-494D-83DF-7F3B970FEE62/d:Properties/f:AssemblyInfo.cs" caret="447" fromTop="10" />
+      <File id="FA05E532-422D-494D-83DF-7F3B970FEE62/f:LogLevel.cs" caret="0" fromTop="0" />
+      <File id="FA05E532-422D-494D-83DF-7F3B970FEE62/f:LogMessage.cs" caret="0" fromTop="0" />
+      <File id="FA05E532-422D-494D-83DF-7F3B970FEE62/f:LogMsmqMessage.cs" caret="0" fromTop="0" />
+      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/d:MessageSender/f:LogMsmqMessageSender.cs" caret="708" fromTop="16" />
+      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:IReceiverService.cs" caret="136" fromTop="6" />
+      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:ExceptionDataPatternConverter.cs" caret="0" fromTop="0" />
+      <File id="A8E1B590-A8A2-414C-8646-4F4000D2A369/d:Properties/f:AssemblyInfo.cs" caret="631" fromTop="14" />
+      <File id="A8E1B590-A8A2-414C-8646-4F4000D2A369/f:Program.cs" caret="218" fromTop="11" />
+      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:packages.config" caret="97" fromTop="3" />
+      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:ReceiverService.cs" caret="581" fromTop="18" />
+      <File id="A8E1B590-A8A2-414C-8646-4F4000D2A369/f:App.config" caret="943" fromTop="8" />
+      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:App.config" caret="1212" fromTop="26" />
     </RecentFiles>
     <RecentEdits>
-      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:Interface/f:LoggerTests.cs" caret="413" fromTop="19" />
-      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:Interface/f:LoggerTests.cs" caret="644" fromTop="19" />
-      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:Interface/f:LoggerTests.cs" caret="1086" fromTop="32" />
-      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:Interface/f:LoggerTests.cs" caret="1579" fromTop="44" />
-      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:Interface/f:LoggerTests.cs" caret="301" fromTop="8" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/f:Logger.cs" caret="663" fromTop="14" />
-      <File id="2FD2B160-D0BB-4362-9E6B-8FFE97D487B6/f:Program.cs" caret="398" fromTop="22" />
-      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:Interface/f:LoggerTests.cs" caret="1785" fromTop="21" />
-      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:Interface/f:LoggerTests.cs" caret="1785" fromTop="27" />
-      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:Interface/f:LoggerTests.cs" caret="1785" fromTop="2" />
-      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:Interface/f:LoggerTests.cs" caret="13" fromTop="0" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/d:MessageSender/f:LogMsmqMessageSender.cs" caret="162" fromTop="6" />
-      <File id="4A4C4D4D-CB92-4907-9BD1-799F27D53B62/d:Interface/d:MessageSender/f:LogMsmqMessageSenderTests.cs" caret="155" fromTop="6" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/f:Logger.cs" caret="382" fromTop="17" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/f:Logger.cs" caret="552" fromTop="20" />
-      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:ReceiverService.cs" caret="375" fromTop="4" />
-      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:ReceiverService.cs" caret="1622" fromTop="4" />
-      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:ReceiverService.cs" caret="1612" fromTop="24" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/f:LogMessage.cs" caret="1107" fromTop="26" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/f:LogMessage.cs" caret="1070" fromTop="33" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/f:Logger.cs" caret="967" fromTop="9" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/f:Logger.cs" caret="1767" fromTop="22" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/f:LogMessage.cs" caret="1028" fromTop="20" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/f:LogMessage.cs" caret="794" fromTop="16" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/d:Properties/f:AssemblyInfo.cs" caret="551" fromTop="10" />
-      <File id="A8E1B590-A8A2-414C-8646-4F4000D2A369/f:App.config" caret="1147" fromTop="13" />
-      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:App.config" caret="1417" fromTop="12" />
-      <File id="A8E1B590-A8A2-414C-8646-4F4000D2A369/f:App.config" caret="1227" fromTop="16" />
-      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:App.config" caret="1500" fromTop="15" />
-      <File id="FEDE6634-0682-46F6-A2CB-E885985AB54F/d:MessageSender/f:ILogMessageSender.cs" caret="38" fromTop="2" />
+      <File id="A8E1B590-A8A2-414C-8646-4F4000D2A369/f:App.config" caret="808" fromTop="15" />
+      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:ReceiverService.cs" caret="1670" fromTop="11" />
+      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:ReceiverService.cs" caret="1673" fromTop="40" />
+      <File id="A8E1B590-A8A2-414C-8646-4F4000D2A369/f:App.config" caret="971" fromTop="3" />
+      <File id="A8E1B590-A8A2-414C-8646-4F4000D2A369/f:App.config" caret="6124" fromTop="19" />
+      <File id="A8E1B590-A8A2-414C-8646-4F4000D2A369/f:App.config" caret="2693" fromTop="0" />
+      <File id="A8E1B590-A8A2-414C-8646-4F4000D2A369/d:Properties/f:AssemblyInfo.cs" caret="631" fromTop="14" />
+      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:ReceiverService.cs" caret="1673" fromTop="31" />
+      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:ReceiverService.cs" caret="1782" fromTop="17" />
+      <File id="A8E1B590-A8A2-414C-8646-4F4000D2A369/f:Program.cs" caret="66" fromTop="2" />
+      <File id="A8E1B590-A8A2-414C-8646-4F4000D2A369/f:Program.cs" caret="218" fromTop="11" />
+      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:packages.config" caret="97" fromTop="3" />
+      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:ReceiverService.cs" caret="392" fromTop="11" />
+      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:ReceiverService.cs" caret="581" fromTop="18" />
+      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:App.config" caret="6464" fromTop="35" />
+      <File id="21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A/f:App.config" caret="1212" fromTop="26" />
     </RecentEdits>
   </RecentFiles>
   <CompletionStatisticsManager>
     <ItemStatistics item="CSharpCodeCompletionContext">
-      <Item value="void" priority="639" />
-      <Item value="object" priority="127" />
+      <Item value="void" priority="831" />
+      <Item value="object" priority="191" />
       <Item value="ServiceKnownType" priority="31" />
-      <Item value="using" priority="318" />
-      <Item value="new" priority="1336" />
+      <Item value="using" priority="567" />
+      <Item value="new" priority="1847" />
       <Item value="MessageQueue" priority="28" />
       <Item value="Message`0" priority="31" />
-      <Item value="Message" priority="188" />
-      <Item value="message" priority="223" />
+      <Item value="Message" priority="253" />
+      <Item value="message" priority="480" />
       <Item value="queue" priority="63" />
-      <Item value="LogMessage`0" priority="192" />
-      <Item value="logMessage" priority="1524" />
+      <Item value="LogMessage`0" priority="256" />
+      <Item value="logMessage" priority="2132" />
       <Item value="try" priority="127" />
       <Item value="cw" priority="287" />
-      <Item value="ex" priority="575" />
+      <Item value="ex" priority="735" />
       <Item value="cr" priority="63" />
       <Item value="IContractBehavior`0" priority="31" />
       <Item value="serviceHost" priority="63" />
       <Item value="ServiceHost" priority="28" />
-      <Item value="typeof" priority="447" />
+      <Item value="typeof" priority="511" />
       <Item value="dispatchRuntime" priority="31" />
       <Item value="OperationSelector" priority="28" />
       <Item value="#warning" priority="223" />
-      <Item value="return" priority="127" />
+      <Item value="return" priority="287" />
       <Item value="Name" priority="31" />
       <Item value="Label" priority="31" />
-      <Item value="Action" priority="95" />
-      <Item value="private" priority="255" />
-      <Item value="readonly" priority="31" />
+      <Item value="Action" priority="127" />
+      <Item value="private" priority="447" />
+      <Item value="readonly" priority="95" />
       <Item value="ReceiverService`0" priority="127" />
-      <Item value="var" priority="828" />
+      <Item value="var" priority="1084" />
       <Item value="as" priority="31" />
-      <Item value="log" priority="347" />
-      <Item value="public" priority="895" />
-      <Item value="string" priority="831" />
-      <Item value="ctor" priority="319" />
+      <Item value="log" priority="379" />
+      <Item value="public" priority="1246" />
+      <Item value="string" priority="1278" />
+      <Item value="ctor" priority="511" />
       <Item value="Created" priority="63" />
-      <Item value="DateTime`0" priority="63" />
-      <Item value="ThreadName" priority="31" />
-      <Item value="Type`0" priority="128" />
-      <Item value="LogMessage" priority="175" />
-      <Item value="Program`0" priority="63" />
-      <Item value="this" priority="159" />
-      <Item value="ThreadContext`0" priority="90" />
-      <Item value="Exception" priority="144" />
-      <Item value="if" priority="63" />
-      <Item value="throw" priority="31" />
-      <Item value="Test" priority="383" />
+      <Item value="DateTime`0" priority="127" />
+      <Item value="ThreadName" priority="64" />
+      <Item value="Type`0" priority="160" />
+      <Item value="LogMessage" priority="204" />
+      <Item value="Program`0" priority="94" />
+      <Item value="this" priority="191" />
+      <Item value="ThreadContext`0" priority="154" />
+      <Item value="Exception" priority="268" />
+      <Item value="if" priority="287" />
+      <Item value="throw" priority="95" />
+      <Item value="Test" priority="415" />
       <Item value="LogMessageTests`0" priority="63" />
       <Item value="binaryFormatter" priority="192" />
       <Item value="BinaryFormatter" priority="28" />
       <Item value="stream" priority="127" />
       <Item value="AssemblyLoadEventArgs`0" priority="31" />
-      <Item value="Assert`0" priority="223" />
+      <Item value="Assert`0" priority="255" />
       <Item value="retrievedEx" priority="32" />
-      <Item value="Exception`0" priority="226" />
+      <Item value="Exception`0" priority="354" />
       <Item value="memoryStream" priority="191" />
       <Item value="Convert`0" priority="63" />
       <Item value="exBytes" priority="31" />
@@ -126,12 +115,12 @@
       <Item value="SerializedLogMessage" priority="31" />
       <Item value="serializedLogMessage" priority="95" />
       <Item value="logMsmqMessage" priority="31" />
-      <Item value="Serializable" priority="31" />
-      <Item value="ILog`0" priority="31" />
+      <Item value="Serializable" priority="95" />
+      <Item value="ILog`0" priority="223" />
       <Item value="LogMsmqMessageTests`0" priority="31" />
-      <Item value="false" priority="127" />
+      <Item value="false" priority="255" />
       <Item value="attributes" priority="65" />
-      <Item value="Is`0" priority="191" />
+      <Item value="Is`0" priority="223" />
       <Item value="Length" priority="55" />
       <Item value="LogMsmqMessage" priority="57" />
       <Item value="const" priority="95" />
@@ -141,21 +130,21 @@
       <Item value="ExpectedException" priority="63" />
       <Item value="ExpectedMessage" priority="31" />
       <Item value="sut" priority="191" />
-      <Item value="null" priority="223" />
+      <Item value="null" priority="415" />
       <Item value="SetUp" priority="95" />
       <Item value="LogMsmqMessageSender" priority="57" />
       <Item value="ArgumentException`0" priority="63" />
       <Item value="ReceiverServiceTests`0" priority="31" />
       <Item value="ReceiverService" priority="28" />
-      <Item value="true" priority="63" />
+      <Item value="true" priority="159" />
       <Item value="Action`0" priority="31" />
       <Item value="where" priority="31" />
-      <Item value="Debug" priority="16" />
-      <Item value="static" priority="222" />
+      <Item value="Debug" priority="33" />
+      <Item value="static" priority="254" />
       <Item value="LogAction`0" priority="410" />
       <Item value="logAction" priority="292" />
       <Item value="ILogMessageSender`0" priority="92" />
-      <Item value="t" priority="63" />
+      <Item value="t" priority="95" />
       <Item value="#endregion" priority="31" />
       <Item value="ConcurrentDictionary&lt;LogAction,Action&gt;" priority="28" />
       <Item value="mapper" priority="31" />
@@ -166,50 +155,110 @@
       <Item value="Ignore" priority="63" />
       <Item value="TestCategories`0" priority="31" />
       <Item value="Type" priority="64" />
-      <Item value="type" priority="128" />
+      <Item value="type" priority="160" />
       <Item value="LoggerTests`0" priority="62" />
       <Item value="stackTrace" priority="128" />
       <Item value="StackTrace" priority="28" />
-      <Item value="methodBase" priority="96" />
+      <Item value="methodBase" priority="280" />
       <Item value="stackFrame" priority="63" />
-      <Item value="exception" priority="160" />
-      <Item value="GetLogMessage`0" priority="63" />
+      <Item value="exception" priority="354" />
+      <Item value="GetLogMessage`0" priority="95" />
       <Item value="interface" priority="31" />
-      <Item value="task" priority="31" />
-      <Item value="bool" priority="31" />
-      <Item value="Log`0" priority="63" />
+      <Item value="task" priority="63" />
+      <Item value="bool" priority="127" />
+      <Item value="Log`0" priority="127" />
       <Item value="assembly" priority="30" />
       <Item value="InternalsVisibleTo" priority="30" />
-      <Item value="Thread`0" priority="31" />
+      <Item value="Thread`0" priority="58" />
       <Item value="currentThread" priority="31" />
-      <Item value="methodName" priority="256" />
+      <Item value="methodName" priority="288" />
       <Item value="T`0" priority="127" />
-      <Item value="log4net" priority="63" />
+      <Item value="log4net" priority="191" />
       <Item value="HomeController`0" priority="31" />
-      <Item value="ll" priority="351" />
+      <Item value="ll" priority="639" />
       <Item value="Application" priority="64" />
       <Item value="ILogger`0" priority="159" />
       <Item value="logger" priority="31" />
       <Item value="Lazy" priority="31" />
       <Item value="Lazy&lt;ILogger&gt;" priority="28" />
-      <Item value="instance" priority="31" />
-      <Item value="lls" priority="31" />
+      <Item value="instance" priority="95" />
+      <Item value="lls" priority="63" />
       <Item value="Logger" priority="57" />
       <Item value="Obsolete" priority="31" />
-      <Item value="MethodBase`0" priority="31" />
+      <Item value="MethodBase`0" priority="63" />
       <Item value="for" priority="31" />
       <Item value="Stopwatch" priority="28" />
       <Item value="sw" priority="95" />
       <Item value="logMessageSender" priority="32" />
       <Item value="LogMessageSender" priority="31" />
-      <Item value="LogWrapper`0" priority="31" />
+      <Item value="LogWrapper`0" priority="63" />
       <Item value="override" priority="31" />
-      <Item value="stringBuilder" priority="128" />
+      <Item value="stringBuilder" priority="224" />
       <Item value="StringBuilder" priority="28" />
       <Item value="sbyte" priority="31" />
       <Item value="Method" priority="31" />
-      <Item value="Send`0" priority="31" />
+      <Item value="Send`0" priority="95" />
       <Item value="Log`1" priority="31" />
+      <Item value="loggingEvent" priority="64" />
+      <Item value="TVariable`0" priority="31" />
+      <Item value="variable" priority="32" />
+      <Item value="TObject`0" priority="31" />
+      <Item value="class" priority="30" />
+      <Item value="Closure" priority="31" />
+      <Item value="Closure&lt;string,DateTime&gt;" priority="28" />
+      <Item value="closure" priority="95" />
+      <Item value="day" priority="31" />
+      <Item value="i" priority="31" />
+      <Item value="IList" priority="31" />
+      <Item value="items" priority="31" />
+      <Item value="Machine" priority="64" />
+      <Item value="Environment`0" priority="96" />
+      <Item value="LogLevel`0" priority="64" />
+      <Item value="RecordNotFound" priority="29" />
+      <Item value="base" priority="95" />
+      <Item value="innerException" priority="63" />
+      <Item value="RecordNotFound`0" priority="31" />
+      <Item value="Task" priority="60" />
+      <Item value="async" priority="31" />
+      <Item value="else" priority="95" />
+      <Item value="typeName" priority="31" />
+      <Item value="FillLogMessageAndSend`0" priority="31" />
+      <Item value="asynchronously" priority="63" />
+      <Item value="FillLogMessage`0" priority="31" />
+      <Item value="logLevel" priority="63" />
+      <Item value="StreamingContext`0" priority="31" />
+      <Item value="context" priority="64" />
+      <Item value="info" priority="31" />
+      <Item value="Lazy&lt;int&gt;" priority="57" />
+      <Item value="Lazy&lt;LogLevel&gt;" priority="28" />
+      <Item value="loggingLevel" priority="31" />
+      <Item value="Lazy&lt;string&gt;" priority="57" />
+      <Item value="ILazyConfigSettings`0" priority="95" />
+      <Item value="configSettings" priority="130" />
+      <Item value="LazyConfigSettings" priority="86" />
+      <Item value="ConfigSettings" priority="31" />
+      <Item value="LazyConfigSettings`0" priority="94" />
+      <Item value="lazy" priority="32" />
+      <Item value="Lazy&lt;LazyConfigSettings&gt;" priority="28" />
+      <Item value="lazyConfigSettings" priority="26" />
+      <Item value="Core" priority="154" />
+      <Item value="LazyConfigSettingsTests" priority="29" />
+      <Item value="int" priority="32" />
+      <Item value="ArgumentException" priority="26" />
+      <Item value="ServiceBehavior" priority="63" />
+      <Item value="ConcurrencyMode" priority="63" />
+      <Item value="ConcurrencyMode`0" priority="58" />
+      <Item value="Trace`0" priority="127" />
+      <Item value="twl" priority="159" />
+      <Item value="Config" priority="49" />
+      <Item value="XmlConfigurator`0" priority="53" />
+      <Item value="Appender" priority="26" />
+      <Item value="LogManager`0" priority="86" />
+      <Item value="Instance" priority="31" />
+      <Item value="value" priority="31" />
+      <Item value="map" priority="127" />
+      <Item value="ConcurrentDictionary" priority="31" />
+      <Item value="ConcurrentDictionary&lt;string,ILog&gt;" priority="28" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Messaging.Message">
       <Item value="Body" priority="26" />
@@ -230,16 +279,17 @@
       <Item value="OperationSelector" priority="26" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@Utilities.Log4Net.LogWrapper">
-      <Item value="Instance" priority="80" />
+      <Item value="Instance" priority="107" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Utilities.Log4Net.LogWrapper">
-      <Item value="Get`1" priority="80" />
+      <Item value="Get`1" priority="134" />
+      <Item value="GetType`0" priority="80" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.ServiceModel.MsmqIntegration.MsmqMessage`1">
       <Item value="Body" priority="26" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:log4net.ILog">
-      <Item value="Info`0" priority="108" />
+      <Item value="Info`0" priority="135" />
       <Item value="Fatal`0" priority="109" />
       <Item value="Debug`0" priority="54" />
       <Item value="Warn`0" priority="54" />
@@ -248,11 +298,12 @@
     <ItemStatistics item="Qualified:Core.LogMessage">
       <Item value="Message" priority="26" />
       <Item value="Application" priority="26" />
-      <Item value="Type" priority="107" />
+      <Item value="Type" priority="270" />
       <Item value="ThreadName" priority="26" />
       <Item value="GetType`0" priority="26" />
       <Item value="Exception" priority="161" />
       <Item value="StackTrace" priority="26" />
+      <Item value="Machine" priority="27" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.DateTime">
       <Item value="UtcNow" priority="54" />
@@ -262,15 +313,15 @@
     <ItemStatistics item="Qualified:@System.Threading.Thread">
       <Item value="AllocateNamedDataSlot`0" priority="26" />
       <Item value="CurrentContext" priority="26" />
-      <Item value="CurrentThread" priority="157" />
+      <Item value="CurrentThread" priority="258" />
       <Item value="Sleep`0" priority="26" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Threading.Thread">
-      <Item value="Name" priority="107" />
+      <Item value="Name" priority="185" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.String">
-      <Item value="Empty" priority="107" />
-      <Item value="Format`0" priority="107" />
+      <Item value="Empty" priority="134" />
+      <Item value="Format`0" priority="188" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Type">
       <Item value="GetType`0" priority="26" />
@@ -279,31 +330,31 @@
       <Item value="GetInterface`0" priority="53" />
       <Item value="ToString`0" priority="82" />
       <Item value="DeclaringType" priority="81" />
-      <Item value="Name" priority="110" />
+      <Item value="Name" priority="191" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@log4net.LogManager">
-      <Item value="GetLogger`0" priority="26" />
+      <Item value="GetLogger`0" priority="108" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Reflection.Assembly">
       <Item value="GetExecutingAssembly`0" priority="26" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@log4net.Config.XmlConfigurator">
-      <Item value="Configure`0" priority="26" />
+      <Item value="Configure`0" priority="80" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Exception">
       <Item value="ToString`0" priority="53" />
       <Item value="StackTrace" priority="26" />
-      <Item value="Data" priority="80" />
+      <Item value="Data" priority="107" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Collections.IDictionary">
-      <Item value="Add`0" priority="53" />
+      <Item value="Add`0" priority="80" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Runtime.Serialization.Formatters.Binary.BinaryFormatter">
       <Item value="Serialize`0" priority="53" />
       <Item value="Deserialize`0" priority="80" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
-      <Item value="That`0" priority="188" />
+      <Item value="That`0" priority="215" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.IO.MemoryStream">
       <Item value="Flush`0" priority="53" />
@@ -326,13 +377,16 @@
       <Item value="SerializedLogMessage" priority="82" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Interface.LogMessage">
-      <Item value="Type" priority="53" />
-      <Item value="ThreadName" priority="27" />
+      <Item value="Type" priority="80" />
+      <Item value="ThreadName" priority="54" />
       <Item value="Created" priority="28" />
-      <Item value="Message" priority="161" />
+      <Item value="Message" priority="215" />
       <Item value="Action" priority="53" />
-      <Item value="Exception" priority="135" />
-      <Item value="Application" priority="26" />
+      <Item value="Exception" priority="216" />
+      <Item value="Application" priority="53" />
+      <Item value="Machine" priority="53" />
+      <Item value="Level" priority="26" />
+      <Item value="Method" priority="27" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.String">
       <Item value="GetType`0" priority="26" />
@@ -340,13 +394,13 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:@NUnit.Framework.Is">
       <Item value="Not" priority="53" />
-      <Item value="EqualTo`0" priority="134" />
+      <Item value="EqualTo`0" priority="161" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.DateTime">
       <Item value="Date" priority="54" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Diagnostics.Trace">
-      <Item value="WriteLine`0" priority="53" />
+      <Item value="WriteLine`0" priority="189" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Interface.LogMsmqMessageSender">
       <Item value="Send`0" priority="107" />
@@ -355,8 +409,8 @@
       <Item value="Debug" priority="107" />
       <Item value="Info" priority="80" />
       <Item value="Warn" priority="54" />
-      <Item value="Error" priority="54" />
-      <Item value="Fatal" priority="54" />
+      <Item value="Error" priority="82" />
+      <Item value="Fatal" priority="82" />
       <Item value="DebugException" priority="91" />
       <Item value="InfoException" priority="128" />
       <Item value="WarnException" priority="73" />
@@ -395,14 +449,14 @@
       <Item value="GetMethod`0" priority="26" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Reflection.MethodBase">
-      <Item value="Name" priority="217" />
-      <Item value="DeclaringType" priority="53" />
+      <Item value="Name" priority="244" />
+      <Item value="DeclaringType" priority="80" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Threading.Tasks.Task">
-      <Item value="Factory" priority="26" />
+      <Item value="Factory" priority="107" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Threading.Tasks.TaskFactory">
-      <Item value="StartNew`0" priority="26" />
+      <Item value="StartNew`0" priority="80" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Threading.Tasks.Task">
       <Item value="Wait`0" priority="26" />
@@ -414,7 +468,7 @@
       <Item value="GetCurrentMethod`0" priority="134" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@log4net.ThreadContext">
-      <Item value="Properties" priority="53" />
+      <Item value="Properties" priority="80" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@Utilities.Configuration.AppSettingsReader">
       <Item value="Get`1" priority="27" />
@@ -423,7 +477,8 @@
       <Item value="logger" priority="26" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Lazy`1">
-      <Item value="Value" priority="26" />
+      <Item value="Value" priority="107" />
+      <Item value="IsValueCreated" priority="26" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Diagnostics.Stopwatch">
       <Item value="Start`0" priority="26" />
@@ -431,8 +486,50 @@
       <Item value="Elapsed" priority="26" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Text.StringBuilder">
-      <Item value="Append`0" priority="53" />
+      <Item value="Append`0" priority="107" />
       <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:log4net.Core.LoggingEvent">
+      <Item value="ExceptionObject" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Tests.Closure`2">
+      <Item value="Predicate" priority="53" />
+      <Item value="Variable" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ObjectDisposedException">
+      <Item value="Data" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="MachineName" priority="81" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Interface.LogLevel">
+      <Item value="Info" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Interface.LazyConfigSettings">
+      <Item value="Instance" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Core.LazyConfigSettings">
+      <Item value="ApplicationName" priority="27" />
+      <Item value="LogLevel" priority="27" />
+      <Item value="LoggingQueue" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationManager">
+      <Item value="AppSettings" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceModel.ConcurrencyMode">
+      <Item value="Single" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Interface.Writer.LogWrapper">
+      <Item value="Get`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Interface.Writer.LogWrapper">
+      <Item value="Instance" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Concurrent.ConcurrentDictionary`2">
+      <Item value="GetOrAdd`0" priority="53" />
     </ItemStatistics>
   </CompletionStatisticsManager>
   <NAntValidationSettings>
@@ -454,23 +551,14 @@
   </SettingsComponent>
   <UnitTestSessions>
     <Session>
-      <Name>Session #2</Name>
+      <Name>Session #1</Name>
       <Elements>
         <UnitTestElement Provider="nUnit" Id="Tests.Interface.LoggerTests" type="NUnitTestFixtureElement" Project="4A4C4D4D-CB92-4907-9BD1-799F27D53B62" />
-        <UnitTestElement Provider="nUnit" Id="Tests.Interface.LoggerTests.CanSendAMessage" ParentId="Tests.Interface.LoggerTests" type="NUnitTestElement" TypeName="Tests.Interface.LoggerTests" MethodName="CanSendAMessage" Project="4A4C4D4D-CB92-4907-9BD1-799F27D53B62" />
         <UnitTestElement Provider="nUnit" Id="Tests.Interface.LoggerTests.CanSendAMessageWithException" ParentId="Tests.Interface.LoggerTests" type="NUnitTestElement" TypeName="Tests.Interface.LoggerTests" MethodName="CanSendAMessageWithException" Project="4A4C4D4D-CB92-4907-9BD1-799F27D53B62" />
-        <UnitTestElement Provider="nUnit" Id="Tests.Interface.LoggerTests.CanSendDebugMessage" ParentId="Tests.Interface.LoggerTests" type="NUnitTestElement" TypeName="Tests.Interface.LoggerTests" MethodName="CanSendDebugMessage" Project="4A4C4D4D-CB92-4907-9BD1-799F27D53B62" />
-        <UnitTestElement Provider="nUnit" Id="Tests.Interface.LoggerTests.CanSendDebugMessageAsynchronously" ParentId="Tests.Interface.LoggerTests" type="NUnitTestElement" TypeName="Tests.Interface.LoggerTests" MethodName="CanSendDebugMessageAsynchronously" Project="4A4C4D4D-CB92-4907-9BD1-799F27D53B62" />
-        <UnitTestElement Provider="nUnit" Id="Tests.Interface.LoggerTests.CanSendAMessage(Debug,&quot;Debug&quot;)" ParentId="Tests.Interface.LoggerTests.CanSendAMessage" type="NUnitRowTestElement" />
-        <UnitTestElement Provider="nUnit" Id="Tests.Interface.LoggerTests.CanSendAMessage(Error,&quot;Error&quot;)" ParentId="Tests.Interface.LoggerTests.CanSendAMessage" type="NUnitRowTestElement" />
-        <UnitTestElement Provider="nUnit" Id="Tests.Interface.LoggerTests.CanSendAMessage(Fatal,&quot;Fatal&quot;)" ParentId="Tests.Interface.LoggerTests.CanSendAMessage" type="NUnitRowTestElement" />
-        <UnitTestElement Provider="nUnit" Id="Tests.Interface.LoggerTests.CanSendAMessage(Info,&quot;Info&quot;)" ParentId="Tests.Interface.LoggerTests.CanSendAMessage" type="NUnitRowTestElement" />
-        <UnitTestElement Provider="nUnit" Id="Tests.Interface.LoggerTests.CanSendAMessage(Warn,&quot;Warn&quot;)" ParentId="Tests.Interface.LoggerTests.CanSendAMessage" type="NUnitRowTestElement" />
+        <UnitTestElement Provider="nUnit" Id="Tests.Interface.LoggerTests.CanSendDebugMessageSynchronouslyProvidingMethodBase" ParentId="Tests.Interface.LoggerTests" type="NUnitTestElement" TypeName="Tests.Interface.LoggerTests" MethodName="CanSendDebugMessageSynchronouslyProvidingMethodBase" Project="4A4C4D4D-CB92-4907-9BD1-799F27D53B62" />
         <UnitTestElement Provider="nUnit" Id="Tests.Interface.LoggerTests.CanSendAMessageWithException(Debug,&quot;Debug&quot;)" ParentId="Tests.Interface.LoggerTests.CanSendAMessageWithException" type="NUnitRowTestElement" />
         <UnitTestElement Provider="nUnit" Id="Tests.Interface.LoggerTests.CanSendAMessageWithException(Error,&quot;Error&quot;)" ParentId="Tests.Interface.LoggerTests.CanSendAMessageWithException" type="NUnitRowTestElement" />
-        <UnitTestElement Provider="nUnit" Id="Tests.Interface.LoggerTests.CanSendAMessageWithException(Fatal,&quot;Fatal&quot;)" ParentId="Tests.Interface.LoggerTests.CanSendAMessageWithException" type="NUnitRowTestElement" />
         <UnitTestElement Provider="nUnit" Id="Tests.Interface.LoggerTests.CanSendAMessageWithException(Info,&quot;Info&quot;)" ParentId="Tests.Interface.LoggerTests.CanSendAMessageWithException" type="NUnitRowTestElement" />
-        <UnitTestElement Provider="nUnit" Id="Tests.Interface.LoggerTests.CanSendAMessageWithException(Warn,&quot;Warn&quot;)" ParentId="Tests.Interface.LoggerTests.CanSendAMessageWithException" type="NUnitRowTestElement" />
       </Elements>
     </Session>
   </UnitTestSessions>

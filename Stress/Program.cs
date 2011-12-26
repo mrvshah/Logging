@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Reflection;
-using Interface;
+using Core;
+using Interface.Sender;
 
 namespace Stress
 {
@@ -12,7 +13,7 @@ namespace Stress
 
 			for (int i = 0; i < 500000; i++)
 			{
-				logger.Log<Program>(MethodBase.GetCurrentMethod().Name, LogAction.Info, string.Format("Message"));
+				logger.Log(MethodBase.GetCurrentMethod(), LogLevel.Info, string.Format("Message"));
 			}
 
 			Console.WriteLine("Done");

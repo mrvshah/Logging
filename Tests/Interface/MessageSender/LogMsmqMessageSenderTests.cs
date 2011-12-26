@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Messaging;
-using Interface;
-using Interface.MessageSender;
+using Core;
+using Interface.Sender.MessageSender;
 using NUnit.Framework;
 
 namespace Tests.Interface.MessageSender

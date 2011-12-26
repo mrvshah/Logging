@@ -1,6 +1,6 @@
 ﻿using System;
 using System.ServiceModel;
-using LogWriter;
+using Interface.Writer;
 
 namespace ConsoleHost
 {

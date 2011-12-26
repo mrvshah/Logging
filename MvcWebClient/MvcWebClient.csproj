@@ -108,7 +108,9 @@
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\modernizr-1.7.js" />
     <Content Include="Scripts\modernizr-1.7.min.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -145,9 +147,13 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Interface\Interface.csproj">
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Project>{FA05E532-422D-494D-83DF-7F3B970FEE62}</Project>
+      <Name>Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Interface.Sender\Interface.Sender.csproj">
       <Project>{FEDE6634-0682-46F6-A2CB-E885985AB54F}</Project>
-      <Name>Interface</Name>
+      <Name>Interface.Sender</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

@@ -50,9 +50,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Interface\Interface.csproj">
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Project>{FA05E532-422D-494D-83DF-7F3B970FEE62}</Project>
+      <Name>Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Interface.Sender\Interface.Sender.csproj">
       <Project>{FEDE6634-0682-46F6-A2CB-E885985AB54F}</Project>
-      <Name>Interface</Name>
+      <Name>Interface.Sender</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

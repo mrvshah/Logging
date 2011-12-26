@@ -1,6 +1,8 @@
 ﻿using System.Reflection;
+using System.Threading;
 using System.Web.Mvc;
-using Interface;
+using Core;
+using Interface.Sender;
 
 namespace MvcWebClient.Controllers
 {
@@ -16,12 +18,14 @@ namespace MvcWebClient.Controllers
 
 		public HomeController(ILogger logger)
 		{
+			Thread.CurrentThread.Name = "Home";
+
 			this.logger = logger;
 		}
 
 		public ActionResult Index()
 		{
-			logger.Log<HomeController>(MethodBase.GetCurrentMethod().Name, LogAction.Info, string.Format("Message"));
+			logger.Log(MethodBase.GetCurrentMethod(), LogLevel.Info, string.Format("Loading home page"));
 
 			ViewBag.Message = "Welcome to ASP.NET MVC!";
 

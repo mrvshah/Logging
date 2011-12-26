@@ -41,6 +41,7 @@
       <HintPath>..\packages\NUnit.2.5.10.11092\lib\pnunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Messaging" />
     <Reference Include="System.Runtime.Serialization" />
@@ -50,36 +51,43 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
-    <Reference Include="Utilities, Version=3.3.0.3, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Utilities, Version=3.3.0.2, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Utilities\Utilities\bin\Release\Utilities.dll</HintPath>
+      <HintPath>..\packages\Utilities.3.3.0.2\lib\net40\Utilities.dll</HintPath>
     </Reference>
-    <Reference Include="Utilities.Common, Version=3.3.0.3, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Utilities.Common, Version=3.3.0.2, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Utilities\Utilities\bin\Release\Utilities.Common.dll</HintPath>
+      <HintPath>..\packages\Utilities.3.3.0.2\lib\net40\Utilities.Common.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Core\LazyConfigSettingsTests.cs" />
     <Compile Include="Interface\LoggerTests.cs" />
-    <Compile Include="Interface\LogMessageTests.cs" />
+    <Compile Include="Core\LogMessageTests.cs" />
     <Compile Include="Interface\MessageSender\LogMsmqMessageSenderTests.cs" />
-    <Compile Include="Interface\LogMsmqMessageTests.cs" />
+    <Compile Include="Core\LogMsmqMessageTests.cs" />
     <Compile Include="LogWriter\ReceiverServiceTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestCategories.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Interface\Interface.csproj">
-      <Project>{FEDE6634-0682-46F6-A2CB-E885985AB54F}</Project>
-      <Name>Interface</Name>
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Project>{FA05E532-422D-494D-83DF-7F3B970FEE62}</Project>
+      <Name>Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\LogWriter\LogWriter.csproj">
+    <ProjectReference Include="..\Interface.Sender\Interface.Sender.csproj">
+      <Project>{FEDE6634-0682-46F6-A2CB-E885985AB54F}</Project>
+      <Name>Interface.Sender</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Interface.Writer\Interface.Writer.csproj">
       <Project>{21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A}</Project>
-      <Name>LogWriter</Name>
+      <Name>Interface.Writer</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

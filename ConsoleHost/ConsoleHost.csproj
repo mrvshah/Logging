@@ -57,9 +57,13 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\LogWriter\LogWriter.csproj">
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Project>{FA05E532-422D-494D-83DF-7F3B970FEE62}</Project>
+      <Name>Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Interface.Writer\Interface.Writer.csproj">
       <Project>{21B8CC85-BDFB-43CD-9BEB-3BDD6B23CC5A}</Project>
-      <Name>LogWriter</Name>
+      <Name>Interface.Writer</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

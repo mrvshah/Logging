@@ -1,5 +1,5 @@
 ﻿using System.ServiceModel;
-using LogWriter;
+using Interface.Writer;
 using NUnit.Framework;
 
 namespace Tests.LogWriter
